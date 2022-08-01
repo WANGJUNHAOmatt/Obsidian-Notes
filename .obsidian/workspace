@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Readme.md",
+            "file": "Inbox/杨逍 的聊天内容.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Readme.md",
+                "file": "Inbox/杨逍 的聊天内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Readme.md",
+                "file": "Inbox/杨逍 的聊天内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Readme.md"
+                "file": "Inbox/杨逍 的聊天内容.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "69fdac2a4ef3639a",
   "lastOpenFiles": [
+    "Inbox/Readme.md",
     "Statistics.md",
     "Inbox/Untitled.md",
     "Inbox/5118 企业营销大数据网.md",
@@ -140,7 +141,6 @@
     "为什么会有这个“心灵学院”.md",
     "Math/元素 Element.md",
     "Math/命题 Statement.md",
-    "Math/对象 Object.md",
-    "Inbox/Obsidian callouts Cheatsheet.md"
+    "Math/对象 Object.md"
   ]
 }
