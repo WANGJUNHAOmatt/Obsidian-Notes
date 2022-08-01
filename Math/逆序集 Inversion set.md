@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 逆序集 Inversion set
+date created: Saturday, July 23rd 2022, 9:12:46 am
+date modified: Monday, August 1st 2022, 9:54:37 pm
+---
 
 > [!info] 逆序集 Inversion set
 > The inversion set is the set of all inversions.

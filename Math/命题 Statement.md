@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 命题 Statement
+date created: Thursday, July 28th 2022, 6:08:16 pm
+date modified: Monday, August 1st 2022, 9:54:37 pm
+---
 
 > [!info]  命题 Statement
 > **数学命题** 是 **良好构成** 的 数学符号 的组合。

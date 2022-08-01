@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "15e075bc9819455a",
+    "type": "split",
+    "children": [
+      {
+        "id": "69fdac2a4ef3639a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/5118 企业营销大数据网.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "390bcb49ce681d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a435192a37b5419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ace48bdfebec0a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d30612f329c750a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#自由",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aa39a088d990b96",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "e5e8d6eb851683e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "665e400a9b44a1b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78a9a6993132fb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/5118 企业营销大数据网.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ef4768aba05271a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/5118 企业营销大数据网.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83978180df138001",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8c8790ceee997a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/5118 企业营销大数据网.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "69fdac2a4ef3639a",
+  "lastOpenFiles": [
+    "Inbox/《你的第一本哲学书》.md",
+    "Math/主体 Subject.md",
+    "为什么会有这个“心灵学院”.md",
+    "Math/元素 Element.md",
+    "Math/命题 Statement.md",
+    "Math/对象 Object.md",
+    "Inbox/Obsidian callouts Cheatsheet.md",
+    "Inbox/().md",
+    "Math/线性代数 愉悦学习体验.md",
+    "Inbox/neevo ai 识别音频赚美刀.md"
+  ]
+}

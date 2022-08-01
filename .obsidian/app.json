@@ -1,0 +1,11 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "promptDelete": false
+}
