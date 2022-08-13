@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/德摩根定律 De Morgan's laws.md",
+            "file": "Reading Notes/思想自由 作为西方哲学最为核心的要素.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/德摩根定律 De Morgan's laws.md",
+                "file": "Reading Notes/思想自由 作为西方哲学最为核心的要素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/德摩根定律 De Morgan's laws.md",
+                "file": "Reading Notes/思想自由 作为西方哲学最为核心的要素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/德摩根定律 De Morgan's laws.md"
+                "file": "Reading Notes/思想自由 作为西方哲学最为核心的要素.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1ace48bdfebec0a6",
+  "active": "fa36a9f8c2ef7507",
   "lastOpenFiles": [
+    "Statistics/Statistics.md",
+    "Statistics/Reading Notes.md",
+    "Output/雷军演讲《永远相信美好的事情即将发生》.md",
+    "Math/不重不漏 MECE.md",
+    "Templates/Wiki.md",
+    "Math/德摩根定律 De Morgan's laws.md",
     "Inbox/奇偶校验与黑白棋魔术.md",
     "Inbox/余数.md",
     "Inbox/EarnDoing 平台.md",
-    "Inbox/I2P.md",
-    "Inbox/OpenWrite 输出工具.md",
-    "Inbox/Readme.md",
-    "Inbox/test.md",
-    "Inbox/Untitled.md",
-    "Math/不重不漏 MECE.md",
-    "Math/空命题 Empty Statement.md"
+    "Inbox/I2P.md"
   ]
 }

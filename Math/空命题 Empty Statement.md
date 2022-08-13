@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 空命题 Empty Statement
+date created: Tuesday, August 2nd 2022, 3:17:30 am
+date modified: Saturday, August 13th 2022, 2:03:13 pm
+---
 
 > 一个空命题，就是 没有传递任何信息的命题。
 

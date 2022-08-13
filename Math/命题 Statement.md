@@ -3,7 +3,7 @@ aliases:
 tags: 
 title: 命题 Statement
 date created: Thursday, July 28th 2022, 6:08:16 pm
-date modified: Monday, August 1st 2022, 9:54:37 pm
+date modified: Saturday, August 13th 2022, 2:03:13 pm
 ---
 
 

@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 逻辑蕴含 Right Implication
+date created: Tuesday, August 2nd 2022, 3:10:33 am
+date modified: Saturday, August 13th 2022, 2:03:13 pm
+---
 
 > [[命题 Statement|命题]] “若 A 则 B” 是 从 A 到 B 蕴含。
 
