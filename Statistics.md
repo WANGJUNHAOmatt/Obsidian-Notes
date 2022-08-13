@@ -1,5 +1,5 @@
 ```dataviewjs
-let nofold = '!"10 归档/Template"'
+let nofold = '!"Templates"'
 let allFile = dv.pages(nofold).file
 let totalMd = "共创建 "+
 	allFile.length+" 篇文档"
