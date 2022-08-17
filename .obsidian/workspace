@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Output/我的开源笔记计划(持续更新中).md",
+            "file": "StartUp/低成本智慧远程视频控制小车.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -71,6 +71,7 @@
       {
         "id": "665e400a9b44a1b0",
         "type": "tabs",
+        "dimension": 41.230068337129836,
         "children": [
           {
             "id": "c78a9a6993132fb3",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/我的开源笔记计划(持续更新中).md",
+                "file": "StartUp/低成本智慧远程视频控制小车.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
       {
         "id": "3b71d778673c294b",
         "type": "tabs",
+        "dimension": 58.76993166287016,
         "children": [
           {
             "id": "9ef4768aba05271a",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Output/我的开源笔记计划(持续更新中).md",
+                "file": "StartUp/低成本智慧远程视频控制小车.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/我的开源笔记计划(持续更新中).md"
+                "file": "StartUp/低成本智慧远程视频控制小车.md"
               }
             }
           }
@@ -138,15 +140,15 @@
   },
   "active": "ef3d9cebffac81ac",
   "lastOpenFiles": [
-    "Output/雷军演讲《永远相信美好的事情即将发生》.md",
-    "Output/我的开源笔记计划(持续更新中).md",
-    "German/德语语法基础 TOC.md",
-    "German/德语中的词性 Genus.md",
-    "German/德语中的代词 Pronomen.md",
-    "German/德语中的反身动词 Reflexive Verben.md",
-    "German/德语中的格 Kasus.md",
-    "Inbox/202204111112 德语中的名词 Substantiv.md",
-    "Inbox/德语中的格.md",
-    "Math/逆序 Inversion.md"
+    "Inbox/如果我们都关闭空调，城市会凉快一些吗？会凉快多少？.md",
+    "StartUp/低成本智慧远程视频控制小车.md",
+    "Inbox/幸福？.md",
+    "为什么会有这个“心灵学院”.md",
+    "Inbox/Python 学习资源.md",
+    "Inbox/理想的咨询方式.md",
+    "Inbox/从你的热爱中找到你的能量.md",
+    "Inbox/关于广告.md",
+    "Inbox/笔记开源Todo.md",
+    "Output/我的开源笔记计划(持续更新中).md"
   ]
 }

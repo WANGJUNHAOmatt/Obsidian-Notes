@@ -4,7 +4,7 @@
   "spellcheck": true,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./src",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "promptDelete": false
