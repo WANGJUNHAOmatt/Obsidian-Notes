@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ab197d01aa10379e",
+        "id": "bc86d5050d82c207",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Output/我想做个人：序章.md",
+            "file": "Inbox/活出自己的主体感.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "899627fa8fd3093e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/我.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#german",
+                "query": "主体",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,11 +71,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "e5e8d6eb851683e7",
@@ -71,7 +86,7 @@
       {
         "id": "665e400a9b44a1b0",
         "type": "tabs",
-        "dimension": 41.230068337129836,
+        "dimension": 35.42141230068337,
         "children": [
           {
             "id": "c78a9a6993132fb3",
@@ -79,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/我想做个人：序章.md",
+                "file": "Inbox/活出自己的主体感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,14 +115,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ae4fba7a3ba6f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3b71d778673c294b",
         "type": "tabs",
-        "dimension": 58.76993166287016,
+        "dimension": 64.57858769931663,
         "children": [
           {
             "id": "9ef4768aba05271a",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Output/我想做个人：序章.md",
+                "file": "Inbox/活出自己的主体感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/我想做个人：序章.md"
+                "file": "Inbox/活出自己的主体感.md"
               }
             }
           }
@@ -138,17 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab197d01aa10379e",
+  "active": "bc86d5050d82c207",
   "lastOpenFiles": [
-    "Output/我的开源笔记计划(持续更新中).md",
+    "Inbox/我.md",
     "Output/我想做个人：序章.md",
-    "Output/src/Pasted image 20220814004410.png",
-    "Output/src/Pasted image 20220814003901.png",
-    "Inbox/从你的热爱中找到你的能量.md",
-    "为什么会有这个“心灵学院”.md",
+    "Inbox/发现自己在青少年时期就展露出的个人天赋和专长.md",
+    "You Seminar/为什么会有这个“心灵学院”.md",
+    "Inbox/活出自己的主体感.md",
+    "Inbox/我的核心逻辑：人生OKR.md",
     "Inbox/幸福？.md",
-    "Inbox/Programing/数据结构考前辅导课程安排.md",
-    "Inbox/Programing/数据结构 - 闲鱼一对一.md",
-    "Inbox/Programing/C++ - 闲鱼一对一.md"
+    "You Seminar/什么是热爱？你的热爱些什么？.md",
+    "Inbox/连接热爱与德语🔗.md",
+    "Math/集合 Set.md"
   ]
 }
