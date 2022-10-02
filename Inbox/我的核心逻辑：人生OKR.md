@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 我的核心逻辑：人生OKR
+date created: Thursday, September 29th 2022, 11:06:25 pm
+date modified: Thursday, September 29th 2022, 11:29:14 pm
+---
 
 ## 人生 OKR
 
