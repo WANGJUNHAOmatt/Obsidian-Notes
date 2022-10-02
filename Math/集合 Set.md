@@ -3,7 +3,7 @@ aliases:
 tags: 
 title: 集合 Set
 date created: Monday, July 18th 2022, 3:43:28 pm
-date modified: Saturday, August 13th 2022, 2:03:13 pm
+date modified: Thursday, September 29th 2022, 11:29:24 pm
 ---
 > [!info] 集合 Set
 > 简称 集，是一个基本的 数学模型，指 具有某种性质的事物的 总体。集合中的事物 称作 [[元素 Element|元素]]。

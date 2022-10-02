@@ -3,7 +3,7 @@ aliases:
 tags: 
 title: test
 date created: Monday, July 18th 2022, 9:50:29 pm
-date modified: Monday, August 1st 2022, 10:41:41 pm
+date modified: Sunday, October 2nd 2022, 12:55:48 pm
 ---
 ```dataview
 LIST FROM #自由

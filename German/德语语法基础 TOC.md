@@ -3,7 +3,7 @@ aliases:
 tags: german/grammar
 title: 德语语法基础 TOC
 date created: Saturday, August 13th 2022, 2:29:12 pm
-date modified: Saturday, August 13th 2022, 2:29:37 pm
+date modified: Thursday, September 29th 2022, 11:29:06 pm
 ---
 
 

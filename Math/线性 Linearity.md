@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 线性 Linearity
+date created: Wednesday, August 31st 2022, 12:51:29 pm
+date modified: Thursday, September 29th 2022, 11:29:24 pm
+---
 
 Linear transformations preserve addition and scalar multiplication.
 

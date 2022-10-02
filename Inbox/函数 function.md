@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 函数 function
+date created: Tuesday, September 13th 2022, 12:25:59 pm
+date modified: Thursday, September 29th 2022, 11:29:14 pm
+---
 
 ## 属性
 $$

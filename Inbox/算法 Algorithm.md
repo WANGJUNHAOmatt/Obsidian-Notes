@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 算法 Algorithm
+date created: Tuesday, September 13th 2022, 1:31:19 pm
+date modified: Thursday, September 29th 2022, 11:29:14 pm
+---
 
 
 ## 属性

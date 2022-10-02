@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 向量 Vector
+date created: Wednesday, August 31st 2022, 4:41:46 pm
+date modified: Thursday, September 29th 2022, 11:29:24 pm
+---
 
 ## 向量的8条公理
 > 满足以下 8 条 规则，即可按照向量进行运算。

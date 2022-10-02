@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 行列式 Determinant
+date created: Saturday, August 20th 2022, 4:25:19 pm
+date modified: Thursday, September 29th 2022, 11:29:14 pm
+---
 
 ### 余子式 cofactor
 

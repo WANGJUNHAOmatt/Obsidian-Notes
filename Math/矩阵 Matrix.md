@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 矩阵 Matrix
+date created: Friday, August 19th 2022, 1:27:52 pm
+date modified: Thursday, September 29th 2022, 11:29:24 pm
+---
 
 ## 一种几何方式的理解
 

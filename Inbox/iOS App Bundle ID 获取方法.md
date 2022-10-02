@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: iOS App Bundle ID 获取方法
+date created: Thursday, August 25th 2022, 4:54:01 pm
+date modified: Thursday, September 29th 2022, 11:29:14 pm
+---
 
 ## 步骤
 ### 01 获取 app 的 id

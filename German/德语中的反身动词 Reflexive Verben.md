@@ -1,3 +1,10 @@
+---
+aliases: 
+tags: 
+title: 德语中的反身动词 Reflexive Verben
+date created: Saturday, August 13th 2022, 2:36:30 pm
+date modified: Thursday, September 29th 2022, 11:29:06 pm
+---
 links: [[202204121459 德语中的动词 Verb]]
 tags: #German/Grammar 
 dates: [[2022-04-15]]

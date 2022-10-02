@@ -3,7 +3,7 @@ aliases:
 tags: german/grammar
 title: 德语中的格 Kasus
 date created: Saturday, August 13th 2022, 2:33:15 pm
-date modified: Saturday, August 13th 2022, 2:33:24 pm
+date modified: Thursday, September 29th 2022, 11:29:06 pm
 ---
 
 > 德语中共有 4 个格，分别为主格、属格、与格、宾格。
