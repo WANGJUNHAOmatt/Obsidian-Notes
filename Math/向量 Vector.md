@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: 矢量
 tags: 
 title: 向量 Vector
 date created: Wednesday, August 31st 2022, 4:41:46 pm
@@ -27,6 +27,10 @@ date modified: Thursday, September 29th 2022, 11:29:24 pm
 ## 向量的运算
 
 ### 向量间的运算
+
+#### 减法
+
+
 
 #### 投影
 
@@ -75,3 +79,14 @@ $$ \cos^2 \alpha + \cos^2 \beta + \cos^2 \gamma = 1$$
 
 ### 向量和其他的运算
 
+## 向量的应用
+
+### 表示质点在坐标系中的位置｜位置矢量
+
+空间向量 $r$ 可以用 空间的 基向量 $i, j, k$ 来表示。
+$$ r = x i + y j + z k $$
+
+### 表示质点位置矢量的变化 ｜ 位移
+
+通过 向量 的减法来表示质点由 $A$ 到 $B$ 的 位移矢量 $\triangle r$ 
+$$ r_B - r_A = \triangle r $$

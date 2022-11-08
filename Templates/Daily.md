@@ -1,4 +1,4 @@
 links: [[]]
-tags: #DailyNotes 
+tags: #DailyNotes
 
 # {{date}}

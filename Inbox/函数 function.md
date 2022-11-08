@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: 方程
 tags: 
 title: 函数 function
 date created: Tuesday, September 13th 2022, 12:25:59 pm
@@ -73,4 +73,11 @@ $$
 $$
 f(x + \triangle x, y + \triangle y) \approx f(x, y) + f_x(x, y) \triangle x + f_y(x, y) \triangle y
 $$
+
+## 函数的应用
+
+### 描述质点的运动方程
+
+质点运动的 位置矢量 随时间变化的方程 称为 质点的运动方程
+$$ r = r(t) = x(t)i + y(t)j + z(t)k $$
 

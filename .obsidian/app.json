@@ -4,8 +4,15 @@
   "spellcheck": true,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./src",
+  "attachmentFolderPath": "Inbox/src",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
