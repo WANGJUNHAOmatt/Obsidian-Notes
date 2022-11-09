@@ -3,7 +3,7 @@ aliases: 有序对
 tags: 
 title: 序偶 ordered pair
 date created: Saturday, October 8th 2022, 8:17:42 pm
-date modified: Saturday, October 8th 2022, 8:17:52 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
 ---
 
 ## 序偶

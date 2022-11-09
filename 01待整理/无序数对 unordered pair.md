@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Thursday, October 13th 2022, 6:46:32 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 
 ## 无序数对
 

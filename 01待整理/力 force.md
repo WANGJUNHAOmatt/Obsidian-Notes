@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Thursday, October 6th 2022, 6:49:16 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 
 ## 力的属性
 

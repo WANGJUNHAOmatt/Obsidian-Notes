@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Monday, October 24th 2022, 6:41:43 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 #### 角色分工「RASCI」模型
 
 - R：Responsible，负责把具体事情做好，有且唯一。

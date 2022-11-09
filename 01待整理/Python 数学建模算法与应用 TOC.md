@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Friday, November 4th 2022, 11:33:08 am
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 #Programing/Python #MCM
 
 #Book/数学建模算法与应用

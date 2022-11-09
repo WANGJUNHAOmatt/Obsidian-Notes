@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Sunday, October 9th 2022, 6:41:42 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 ## 功 work
 
 [[力 force]] 在 位移 方向的 分量 与 该 位移 大小 的乘积。

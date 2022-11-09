@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Saturday, October 15th 2022, 5:17:38 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 #Book/Language_in_Thought_and_Action 
 
 #Author/Samuel-Hayakawa 

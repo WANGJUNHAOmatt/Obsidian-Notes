@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Thursday, October 6th 2022, 3:08:40 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 
 - [x] 第一章 质点[[运动]]学
 	- [x] 1.1 质点运动的描述

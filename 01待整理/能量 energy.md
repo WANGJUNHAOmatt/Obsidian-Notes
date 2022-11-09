@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Monday, October 10th 2022, 1:56:34 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 
 ## 能量
 

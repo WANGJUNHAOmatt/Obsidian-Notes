@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Sunday, October 2nd 2022, 2:54:10 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 #passion 
 #Author/Paul-Graham
 

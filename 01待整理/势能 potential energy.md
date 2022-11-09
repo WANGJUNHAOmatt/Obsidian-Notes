@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Sunday, October 9th 2022, 7:03:17 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 
 ## 势能 potential energy
 

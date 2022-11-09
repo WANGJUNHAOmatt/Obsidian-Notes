@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: Friday, October 28th 2022, 4:59:11 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
+---
 > 来源： https://www.mindtools.com/pages/article/smart-goals.htm
 
 ## How to Make Your Goals Achievable

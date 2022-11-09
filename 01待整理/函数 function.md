@@ -3,7 +3,7 @@ aliases: 方程
 tags: 
 title: 函数 function
 date created: Tuesday, September 13th 2022, 12:25:59 pm
-date modified: Thursday, September 29th 2022, 11:29:14 pm
+date modified: Wednesday, November 9th 2022, 9:56:11 am
 ---
 
 ## 属性
