@@ -1,5 +1,9 @@
 [
   "dataview",
   "obsidian-linter",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-dynamic-toc",
+  "obsidian-tracker",
+  "calendar",
+  "obsidian-git"
 ]
