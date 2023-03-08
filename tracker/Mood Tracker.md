@@ -1,8 +1,8 @@
 
 ```tracker
 searchType: frontmatter
-searchTarget: mood, game, anxiety, sports, friend
-datasetName: mood, game, anxiety, sports, friend
+searchTarget: mood, game, anxiety
+datasetName: mood, game, anxiety
 startDate: 2022-12-24
 folder: Diary
 line:
@@ -11,6 +11,6 @@ line:
 	yMin: 0
 	yMax: 10
 	showLegend: true
-	lineColor: LimeGreen, chocolate, red, cyan, violet
+	lineColor: LimeGreen, yellow, red
 	legendPosition: right
 ```

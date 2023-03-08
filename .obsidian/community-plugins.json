@@ -5,5 +5,8 @@
   "obsidian-dynamic-toc",
   "obsidian-tracker",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-kanban",
+  "templater-obsidian"
 ]

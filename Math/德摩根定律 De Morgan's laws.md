@@ -12,8 +12,8 @@ date modified: Saturday, August 13th 2022, 2:03:13 pm
 ### 符号表示
 $$
 \begin{aligned} 
-(\neg A) \vee (\neg B) &= \neg (A \wedge B) \\
-(\neg A) \wedge (\neg B) &= \neg (A \vee B) 
+(\neg A) \vee (\neg B) &\equiv \neg (A \wedge B) \\
+(\neg A) \wedge (\neg B) &\equiv \neg (A \vee B) 
 \end{aligned}
 $$
 

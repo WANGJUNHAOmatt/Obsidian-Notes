@@ -30,6 +30,14 @@ $$ A \implies B $$
 
 ### 符号表示
  $$ A \implies B\ 的\ 逆\ 为\ A \Longleftarrow B\ 或\ B \implies A $$ 
+### 真值表
+
+|   A   |   B   | $A \implies B$ |
+|:-----:|:-----:|:------------:|
+| True  | True  |     False     |
+| True  | False |     False     |
+| False | True  |     True     |
+| False | False  |     True     |
 
 ---
 

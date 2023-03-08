@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"45e88f5b8e19d864","x":-556,"y":-3,"width":813,"height":399,"type":"text","text":"# 紧急但不重要"},
+		{"id":"d341be3b9c0f29f6","x":-556,"y":-837,"width":813,"height":834,"type":"text","text":"# 重要且紧急\n"},
+		{"id":"364a51f47851b8d1","x":257,"y":-837,"width":813,"height":834,"type":"text","text":"# 重要但不紧急\n\n- [ ] 阅读[[项目管理知识体系指南|PMBOK 指南]]\n- [ ] "},
+		{"id":"a1b2ee8ae496170e","x":257,"y":-3,"width":813,"height":399,"type":"text","text":"# 不紧急不重要\n\n- [ ] 了解一下 [Templater](https://silentvoid13.github.io/Templater/syntax.html)\n- [ ] "}
+	],
+	"edges":[]
+}
