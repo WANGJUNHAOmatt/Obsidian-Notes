@@ -42,6 +42,14 @@
         "Shift"
       ],
       "key": "T"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }
